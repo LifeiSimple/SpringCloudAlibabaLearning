@@ -1,0 +1,8 @@
+/book-service/target/
+/borrow-service/target/
+/user-service/target/
+/.idea/
+/book-service/book-service.iml
+/borrow-service/borrow-service.iml
+/user-service/user-service.iml
+/SpringCloudStudy.iml
